@@ -169,4 +169,4 @@ This project demonstrates:
 The analysis shows that **medium-priced products provide the strongest balance between revenue and sales volume**. Low-priced products help increase demand, while premium products may require better positioning or pricing review.
 
 This dashboard helps businesses make data-driven pricing decisions, identify high-performing products, improve regional pricing strategies, and optimize overall revenue performance.
-└── README.md
+
